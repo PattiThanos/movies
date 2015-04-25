@@ -1,5 +1,7 @@
 Movies Website
 
+  Movies Website
+
   What is it?
   -----------
 The movies website is a one page display of select trailers. A preview of each trailer
@@ -11,6 +13,12 @@ by clicking on the image.
 
   C:\Users\HPLaptop\Documents\Udacity\FS_Lesson1\movies\fresh_tomatoes.html
 
+  Instructions for Use
+  ------------------
+
+Click on URL. A preview of each trailer will show on the home page. The user will be able to access the trailer of each movie
+by clicking on the image.
+
   Technology used
   ------------------
 
@@ -21,5 +29,7 @@ by clicking on the image.
   --------
 
   Patti Thanos can be reached at thanos.patti@yahoo.com 
+
+
 
 
